@@ -1,4 +1,4 @@
-### Hi there, I'm Nazariy - aka [NazariySh][website] 👋
+### Hi there, I'm Nazariy - aka [NazariySh][wwww.com] 👋
 
 
 - 👋 Hi, I’m @NazariySh
