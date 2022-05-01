@@ -1,8 +1,8 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Nazariy - aka @NazariySh 👋 
 
 ## I'm a web Developer, !!
 
-- 🔭 I’m currently working on something cool 
+- 🔭 I’m currently working on something cool 👌
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about JS
 
