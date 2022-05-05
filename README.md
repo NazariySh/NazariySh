@@ -1,4 +1,4 @@
-# Hi there, I'm Nazariy - aka @NazariySh 👋 
+# <b>Hi there, I'm Nazariy - aka @NazariySh</b>👋 
 
 ## I'm a Web Developer !!
 
