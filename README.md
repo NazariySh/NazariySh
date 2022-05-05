@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about JS
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/NazariySh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NazariySh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazariySh&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NazariySh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazariySh&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   
