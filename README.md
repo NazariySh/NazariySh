@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on something cool 👌
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about JS
-- 
-- <div align="center">
+
+<div align="center">
   <a href="https://github.com/NazariySh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NazariySh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazariySh&layout=compact&langs_count=7&theme=cobalt"/>
@@ -30,8 +30,8 @@
 
   </div>
 
-### Connect with me:
 
+##
 
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
