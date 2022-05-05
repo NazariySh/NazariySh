@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about JS
 
-<div align="center" style="display: flex;">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/NazariySh">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NazariySh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazariySh&layout=compact&langs_count=7&theme=cobalt"/>
