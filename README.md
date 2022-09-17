@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool 👌
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about JS
+
 
 <div align="center" >
   <a href="https://github.com/NazariySh">
